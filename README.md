@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-enkhbold470-bci-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-enkhbold470-bci-mcp)
+
 # Brain-Computer Interface with Model Context Protocol (BCI-MCP)
 
 This project integrates Brain-Computer Interface (BCI) technology with the Model Context Protocol (MCP) to create a powerful framework for neural signal acquisition, processing, and AI-enabled interactions.
